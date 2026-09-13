@@ -1,0 +1,12 @@
+Certificate of Pair Programming
+
+Name: ECC Lab 2
+Pair Name: Aryan Dhuru, Shivali Mate
+
+On our honor, Aryan Dhuru and Shivali Mate, this lab
+is our own work. We spent 80% of our time on this lab
+together, we split the input time (e.g., keyboard typing)
+evenly, and we both participated equally in the solution
+design.
+
+Total hours spent on this project: 10 hours.
